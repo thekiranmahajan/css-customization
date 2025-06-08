@@ -133,7 +133,7 @@ const Selector = () => {
         </select>
       </div>
       <a href="#">shortcut</a>
-      <textarea name="" id="" className="resize-none"></textarea>
+      <textarea name="" id="" className="resize-none border-2"></textarea>
     </div>
   );
 };
